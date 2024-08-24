@@ -1,3 +1,5 @@
+# ini function cuy
+
 def kamu_siapa
     puts "kamu siapa ?"
 end
@@ -24,7 +26,7 @@ umurmu(20, "jokowi")
 default_func()
 typefunc("jokowi", 20)
 
-
+# nyoba class 
 class Jokowow
     def jokoprabowow
         puts "jokowi"
