@@ -26,7 +26,7 @@ umurmu(20, "jokowi")
 default_func()
 typefunc("jokowi", 20)
 
-# nyoba class 
+# nyoba class yang mirip mirip python tapi enak kaya... au dah wwkkwkw
 class Jokowow
     def jokoprabowow
         puts "jokowi"
