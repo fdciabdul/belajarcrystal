@@ -23,3 +23,18 @@ namaku("jokowi")
 umurmu(20, "jokowi")
 default_func()
 typefunc("jokowi", 20)
+
+
+class Jokowow
+    def jokoprabowow
+        puts "jokowi"
+    end
+
+    def keluarga(namakeluarga)
+        puts "pasti #{namakeluarga} jadi"
+    end
+end
+
+jokowow = Jokowow.new
+jokowow.jokoprabowow
+jokowow.keluarga("jokowi")
