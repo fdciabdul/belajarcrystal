@@ -1,4 +1,4 @@
-# ini function cuy
+# ini function cuy mirip python, tapi ini asyik bjir
 
 def kamu_siapa
     puts "kamu siapa ?"
